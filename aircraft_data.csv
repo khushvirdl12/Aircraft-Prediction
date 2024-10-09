@@ -1,0 +1,101 @@
+Type,Manufacturer,Model,Year,Max_Speed (mph),Range (miles),Payload (lbs)
+Fighter Jet,Saab,Model-1,1986,1293,6719,29963
+Aircraft,Boeing,Model-2,2015,514,5605,45876
+Aircraft,Saab,Model-3,1995,2174,7340,31066
+Aircraft,Dassault Aviation,Model-4,2008,516,3524,8973
+Fighter Jet,Dassault Aviation,Model-5,1994,1060,7197,27463
+Aircraft,Boeing,Model-6,1991,2310,1819,27591
+Aircraft,Saab,Model-7,2010,625,1903,43190
+Fighter Jet,Boeing,Model-8,1982,1776,2187,20293
+Fighter Jet,Airbus,Model-9,1957,959,3302,33956
+Fighter Jet,Dassault Aviation,Model-10,1960,1085,2668,13490
+Aircraft,Lockheed Martin,Model-11,1953,1764,7104,13805
+Aircraft,Airbus,Model-12,2001,1709,5395,25907
+Aircraft,Boeing,Model-13,2023,2371,4470,34141
+Aircraft,Saab,Model-14,1987,2449,7659,34510
+Fighter Jet,Lockheed Martin,Model-15,1981,707,2304,46289
+Fighter Jet,Dassault Aviation,Model-16,2013,1012,7221,30014
+Aircraft,Boeing,Model-17,1989,1619,4642,4119
+Aircraft,Lockheed Martin,Model-18,1972,785,6514,46286
+Aircraft,Lockheed Martin,Model-19,2008,2355,4569,49264
+Fighter Jet,Lockheed Martin,Model-20,2022,904,6365,22218
+Aircraft,Airbus,Model-21,2000,2028,3944,12383
+Fighter Jet,Dassault Aviation,Model-22,1951,1892,3256,26120
+Aircraft,Boeing,Model-23,1978,2050,3595,30390
+Aircraft,Dassault Aviation,Model-24,1961,1665,4040,47119
+Aircraft,Saab,Model-25,1984,1143,4458,47893
+Aircraft,Lockheed Martin,Model-26,2005,2071,1031,45673
+Fighter Jet,Saab,Model-27,1960,1841,6969,24180
+Aircraft,Boeing,Model-28,1965,543,7990,29307
+Aircraft,Dassault Aviation,Model-29,2010,1658,6309,40719
+Aircraft,Airbus,Model-30,1975,2235,6945,49541
+Fighter Jet,Airbus,Model-31,1967,577,2592,32961
+Fighter Jet,Boeing,Model-32,1965,639,5349,22527
+Fighter Jet,Dassault Aviation,Model-33,1956,1334,1471,27986
+Fighter Jet,Boeing,Model-34,1961,2105,7982,34272
+Aircraft,Airbus,Model-35,1968,2488,2515,40089
+Fighter Jet,Dassault Aviation,Model-36,1962,1953,5866,20660
+Fighter Jet,Lockheed Martin,Model-37,2001,915,2918,35789
+Fighter Jet,Dassault Aviation,Model-38,1952,979,4723,29336
+Aircraft,Saab,Model-39,1991,2138,3259,32883
+Fighter Jet,Boeing,Model-40,2022,1355,1688,31082
+Aircraft,Lockheed Martin,Model-41,1999,1701,1052,34649
+Aircraft,Dassault Aviation,Model-42,2009,1928,3465,44160
+Fighter Jet,Boeing,Model-43,1958,1396,6172,19012
+Fighter Jet,Airbus,Model-44,2017,2467,7560,14098
+Aircraft,Lockheed Martin,Model-45,2003,923,5063,45757
+Aircraft,Saab,Model-46,1979,798,2231,8548
+Fighter Jet,Dassault Aviation,Model-47,1971,1278,4367,20900
+Fighter Jet,Saab,Model-48,2022,1979,5891,34506
+Aircraft,Dassault Aviation,Model-49,1978,951,3396,22401
+Aircraft,Boeing,Model-50,1966,1035,3577,1019
+Fighter Jet,Airbus,Model-51,1987,1598,5071,1998
+Fighter Jet,Boeing,Model-52,1989,1032,3850,46690
+Fighter Jet,Airbus,Model-53,2011,638,3497,32058
+Fighter Jet,Airbus,Model-54,1990,525,3290,20095
+Fighter Jet,Lockheed Martin,Model-55,2016,1028,5846,43877
+Fighter Jet,Airbus,Model-56,1975,2320,1855,10804
+Fighter Jet,Airbus,Model-57,1989,918,3609,13664
+Aircraft,Dassault Aviation,Model-58,1992,1328,2181,41655
+Aircraft,Airbus,Model-59,2004,1700,2285,48243
+Aircraft,Dassault Aviation,Model-60,1977,1698,7869,12184
+Aircraft,Boeing,Model-61,2022,1963,6137,8601
+Aircraft,Boeing,Model-62,2016,909,3469,32585
+Fighter Jet,Saab,Model-63,1957,2473,2667,14614
+Aircraft,Saab,Model-64,2009,1162,3528,23202
+Fighter Jet,Saab,Model-65,1979,2074,3381,5067
+Fighter Jet,Airbus,Model-66,1959,2346,1603,4950
+Aircraft,Airbus,Model-67,1993,2310,2328,38672
+Aircraft,Boeing,Model-68,1951,1134,7472,31114
+Fighter Jet,Dassault Aviation,Model-69,1985,2450,5740,4437
+Aircraft,Dassault Aviation,Model-70,1963,2371,7365,8300
+Fighter Jet,Lockheed Martin,Model-71,1962,2039,3608,22400
+Aircraft,Saab,Model-72,1977,885,5337,23568
+Aircraft,Dassault Aviation,Model-73,1976,1351,6442,4494
+Fighter Jet,Lockheed Martin,Model-74,1973,2374,6101,40657
+Fighter Jet,Dassault Aviation,Model-75,1979,2060,5524,14937
+Fighter Jet,Airbus,Model-76,1972,875,7347,26015
+Fighter Jet,Lockheed Martin,Model-77,1962,1141,3248,43356
+Aircraft,Saab,Model-78,1955,509,3211,30989
+Fighter Jet,Lockheed Martin,Model-79,1992,2150,4712,14274
+Aircraft,Boeing,Model-80,1978,622,3795,4205
+Aircraft,Dassault Aviation,Model-81,2021,2061,5484,20495
+Aircraft,Boeing,Model-82,1968,1017,7134,44080
+Aircraft,Airbus,Model-83,2013,2149,6844,21315
+Fighter Jet,Airbus,Model-84,1979,2214,7146,2491
+Fighter Jet,Dassault Aviation,Model-85,1994,1339,1470,40067
+Aircraft,Dassault Aviation,Model-86,1988,595,4629,8331
+Fighter Jet,Dassault Aviation,Model-87,2022,1396,2849,28534
+Aircraft,Lockheed Martin,Model-88,2015,584,4936,2167
+Aircraft,Boeing,Model-89,1952,2440,3773,33152
+Fighter Jet,Lockheed Martin,Model-90,2020,1097,4721,38121
+Fighter Jet,Lockheed Martin,Model-91,1972,1438,1788,2117
+Fighter Jet,Lockheed Martin,Model-92,1955,923,4731,39581
+Fighter Jet,Boeing,Model-93,2019,1526,3160,42268
+Aircraft,Saab,Model-94,2014,1629,3342,26412
+Fighter Jet,Dassault Aviation,Model-95,1971,1865,5222,49048
+Aircraft,Airbus,Model-96,2008,2200,3532,27097
+Fighter Jet,Dassault Aviation,Model-97,1974,1207,7940,22347
+Aircraft,Saab,Model-98,2008,1673,7391,42915
+Fighter Jet,Lockheed Martin,Model-99,1996,1001,6180,2547
+Fighter Jet,Saab,Model-100,1972,983,5648,20834
